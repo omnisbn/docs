@@ -1,11 +1,12 @@
 ---
 title: Intermediate
 taxonomy:
-    category: docs
+    category:
+        - docs
 ---
 
 ### Chapter 2
 
 # Intermediate
 
-Delve deeper into more **complex** topics
+Delve deeper into more **complex** topics / firt change to test github
