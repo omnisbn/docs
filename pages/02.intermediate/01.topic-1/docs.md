@@ -1,9 +1,11 @@
 ---
-title: Topic 1
+title: 'Topic 1'
 taxonomy:
-    category: docs
+    category:
+        - docs
 process:
-	twig: true
+    markdown: true
+    twig: true
 ---
 
 Lorem markdownum murmure fidissime suumque. Nivea agris, duarum longaeque Ide
@@ -12,7 +14,7 @@ vidisset fluctibus **mansit** limite rigebant; enim satis exaudi attulit tot
 lanificae [indice](http://www.mozilla.org/) Tridentifer laesum. Movebo et fugit,
 limenque per ferre graves causa neque credi epulasque isque celebravit pisces.
 
-- Iasone filum nam rogat
+- Iasone filum nam rogat123
 - Effugere modo esse
 - Comminus ecce nec manibus verba Persephonen taxo
 - Viribus Mater
