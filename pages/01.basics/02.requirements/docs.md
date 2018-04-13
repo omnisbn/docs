@@ -1,7 +1,9 @@
 ---
 title: Requirements
 taxonomy:
-    category: docs
+    category:
+        - docs
+hide_hypothesis: false
 ---
 
 Lorem markdownum pius. Missa ultra adhuc ait reverti ubi soporem, **tibi iam**,
@@ -10,7 +12,7 @@ fallis errabant, sub primo retro illo. Caesariem tincta natam contineat demens.
 *Si sed* ardescunt Delphice quasque alteraque servant.
 
 O caligine cadunt nuper, institerant candida numerum, nec interius retenta
-circumspectis avis. Orantemque invidit illius de nam lanient pax clarique aquam,
+circumspectis avis. 1234Orantemque invidit illius de nam lanient pax clarique aquam,
 poenae, alto noceat.
 
 ## Percussae oculos
